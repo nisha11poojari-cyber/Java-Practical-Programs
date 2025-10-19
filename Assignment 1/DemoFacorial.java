@@ -1,6 +1,6 @@
 /*Program to find the factorial of a number */
 
-class FactorialDemo {
+class DemoFactorial {
     public static void main(String[] args)
     {
         //Checking the number of parameters first
